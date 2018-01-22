@@ -1,0 +1,55 @@
+// UI Theme
+// -------------------
+
+// This is the main file that imports all the Less files from the `/styles` directory.
+
+// For more infos about creating themes, check out:
+// http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme
+
+@import "styles/ui-variables";
+@import "styles/base";
+@import "styles/buttons";
+@import "styles/editor";
+@import "styles/find-and-replace";
+@import "styles/git";
+@import "styles/key-binding";
+@import "styles/lists";
+@import "styles/panels";
+@import "styles/progress";
+@import "styles/sites";
+@import "styles/status-bar";
+@import "styles/tabs";
+@import "styles/text";
+@import "styles/tooltips";
+@import "styles/tree-view";
+
+.inset-panel {
+  background-image: url('https://image.ibb.co/dMRYGw/christmas.png');
+}
+
+.tab-bar .tab.active {
+  opacity: 2;
+}
+
+.tree-view {
+  background: #F5624D;
+  padding-top:180px;
+}
+.list-item {
+  color: @text-color-selected;
+}
+.list-group .selected::before, .list-tree .selected::before{
+  background-color: #235E6F;
+}
+.atom-dock-toggle-button .atom-dock-toggle-button-inner {
+  background-color: #34A65F;
+  transition: transform 0.2s ease-out 0s;
+}
+.status-bar {
+  background-color: #ffffff;
+  font-size:14px;
+  border-top: none;
+}
+status-bar .inline-block {
+  color:#4d5056;
+}
