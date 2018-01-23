@@ -19,6 +19,12 @@ apm install atom-christmas-ui
 
 ![](https://image.ibb.co/ckDr4G/Ads_z.png)
 
+# Packages For Atom-Christmas-UI
+
+[Snowfall Package](https://atom.io/packages/snowfall)
+
+[Atom Christmas Syntax](https://atom.io/themes/atom-christmas-syntax)
+
 # CHANGELOG.md
 
 Please check the [CHANGELOG.md](https://github.com/blacknbunny/atom-christmas-ui/blob/master/CHANGELOG.md) file.
@@ -27,9 +33,3 @@ Please check the [CHANGELOG.md](https://github.com/blacknbunny/atom-christmas-ui
 Atom Christmas UI is licensed under MIT.
 
 View the license file [here](https://github.com/blacknbunny/atom-christmas-ui/blob/master/LICENSE)
-
-# Packages For Atom-Christmas-UI
-
-[Snowfall Package](https://atom.io/packages/snowfall)
-
-[Atom Christmas Syntax](https://atom.io/themes/atom-christmas-syntax)
