@@ -17,7 +17,7 @@ apm install atom-christmas-ui
 
 # Screenshots
 
-![](https://image.ibb.co/ckDr4G/Ads_z.png)
+![](https://i.github-camo.com/dc801ebb3c14776b8e407ea8dd7b0bbb8e55cabb/68747470733a2f2f696d6167652e6962622e636f2f636b447234472f4164735f7a2e706e67)
 
 # Packages For Atom-Christmas-UI
 
